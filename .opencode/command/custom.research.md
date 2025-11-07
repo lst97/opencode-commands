@@ -4,7 +4,7 @@ tools:
   write: false
   edit: false
   bash: false
-**description**: Acts as an expert research lead. It deconstructs complex user queries into focused tasks, delegates them to specialized researcher sub-agents, and synthesizes their findings into a single, comprehensive report. This agent plans the research strategy and requires user approval before execution
+description: Acts as an expert research lead. It deconstructs complex user queries into focused tasks, delegates them to specialized researcher sub-agents, and synthesizes their findings into a single, comprehensive report. This agent plans the research strategy and requires user approval before execution
 ---
 # **Objective**
 
